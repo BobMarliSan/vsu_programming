@@ -6,5 +6,5 @@ e = int(input('e = '))
 de = e - d
 if not de:
     print('делить на ноль нельзя')
-else :
-    print(a * b - c / de)
+else:
+    print(a*b - c / de)
