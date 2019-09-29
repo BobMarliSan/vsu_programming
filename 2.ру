@@ -7,4 +7,4 @@ de = e - d
 if not de:
     print('делить на ноль нельзя')
 else:
-    print(a*b - c / de)
+    print(a*b - c/de)
